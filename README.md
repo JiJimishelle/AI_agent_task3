@@ -23,6 +23,7 @@ displaying it:
 
 ```zsh
 read -s "GEMINI_API_KEY?Paste Gemini API key (hidden), then press Return: "
+"AQ.Ab8RN6IeD3tVbCboIBgRnBzUJ0bcIesmNx_XE7_NBoGrmzt9rA"
 echo
 export GEMINI_API_KEY
 export GEMINI_MODEL="gemini-3.5-flash-lite"
